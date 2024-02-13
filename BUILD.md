@@ -14,12 +14,12 @@ source ./emsdk/emsdk_env.sh
 ```
 
 #### 2) Build d3wasm
-a) Get d3wasm source code 
+a) Get d3wasm source from this repo
 ```
-git clone https://github.com/gabrielcuvillier/d3wasm.git
-cd d3wasm
-```
-b) Build the project
+git clone https://github.com/GrimlokTheFox/d3wasm-Igrazdor.git
+cd d3wasm-igrazor
+
+b) Now, build the project
 ```
 mkdir build-wasm
 cd build-wasm
