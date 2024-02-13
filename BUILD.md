@@ -18,7 +18,7 @@ a) Get d3wasm source from this repo
 ```
 git clone https://github.com/GrimlokTheFox/d3wasm-Igrazdor.git
 cd d3wasm-igrazor
-
+```
 b) Now, build the project
 ```
 mkdir build-wasm
